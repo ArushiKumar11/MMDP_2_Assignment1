@@ -1,0 +1,272 @@
+[
+    {
+        "file_name": "01_WNYC_20250309_124502.mp3",
+        "station_name": "WNYC",
+        "stream_url": "http://fm939.wnyc.org/wnycfm",
+        "timestamp": "20250309_124502",
+        "requested_duration": 43,
+        "actual_duration": 43.0,
+        "file_size_kb": 673.708984375
+    },
+    {
+        "file_name": "02_Smooth_Jazz_20250309_124542.mp3",
+        "station_name": "Smooth Jazz",
+        "stream_url": "https://smoothjazz.cdnstream1.com/2585_128.mp3",
+        "timestamp": "20250309_124542",
+        "requested_duration": 40,
+        "actual_duration": 40.0,
+        "file_size_kb": 626.4794921875
+    },
+    {
+        "file_name": "03_France_Info_20250309_124604.mp3",
+        "station_name": "France Info",
+        "stream_url": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
+        "timestamp": "20250309_124604",
+        "requested_duration": 78,
+        "actual_duration": 78.0,
+        "file_size_kb": 1219.625
+    },
+    {
+        "file_name": "04_WNYC_20250309_124722.mp3",
+        "station_name": "WNYC",
+        "stream_url": "http://fm939.wnyc.org/wnycfm",
+        "timestamp": "20250309_124722",
+        "requested_duration": 45,
+        "actual_duration": 45.0,
+        "file_size_kb": 704.556640625
+    },
+    {
+        "file_name": "05_WNYC_20250309_124754.mp3",
+        "station_name": "WNYC",
+        "stream_url": "http://fm939.wnyc.org/wnycfm",
+        "timestamp": "20250309_124754",
+        "requested_duration": 57,
+        "actual_duration": 57.0,
+        "file_size_kb": 892.431640625
+    },
+    {
+        "file_name": "06_NPR_20250309_124840.mp3",
+        "station_name": "NPR",
+        "stream_url": "https://npr-ice.streamguys1.com/live.mp3",
+        "timestamp": "20250309_124840",
+        "requested_duration": 60,
+        "actual_duration": 60.0,
+        "file_size_kb": 939.037109375
+    },
+    {
+        "file_name": "07_France_Info_20250309_124939.mp3",
+        "station_name": "France Info",
+        "stream_url": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
+        "timestamp": "20250309_124939",
+        "requested_duration": 39,
+        "actual_duration": 39.0,
+        "file_size_kb": 610.25
+    },
+    {
+        "file_name": "08_WNYC_20250309_125018.mp3",
+        "station_name": "WNYC",
+        "stream_url": "http://fm939.wnyc.org/wnycfm",
+        "timestamp": "20250309_125018",
+        "requested_duration": 85,
+        "actual_duration": 85.0,
+        "file_size_kb": 1330.056640625
+    },
+    {
+        "file_name": "09_KEXP_20250309_125131.mp3",
+        "station_name": "KEXP",
+        "stream_url": "https://kexp.streamguys1.com/kexp160.aac",
+        "timestamp": "20250309_125131",
+        "requested_duration": 32,
+        "actual_duration": 32.0,
+        "file_size_kb": 501.2490234375
+    },
+    {
+        "file_name": "10_NPR_20250309_125200.mp3",
+        "station_name": "NPR",
+        "stream_url": "https://npr-ice.streamguys1.com/live.mp3",
+        "timestamp": "20250309_125200",
+        "requested_duration": 71,
+        "actual_duration": 71.0,
+        "file_size_kb": 1111.162109375
+    },
+    {
+        "file_name": "11_Classic_FM_20250309_125319.mp3",
+        "station_name": "Classic FM",
+        "stream_url": "https://media-ice.musicradio.com/ClassicFMMP3",
+        "timestamp": "20250309_125319",
+        "requested_duration": 61,
+        "actual_duration": 61.0,
+        "file_size_kb": 954.5703125
+    },
+    {
+        "file_name": "12_WNYC_20250309_125418.mp3",
+        "station_name": "WNYC",
+        "stream_url": "http://fm939.wnyc.org/wnycfm",
+        "timestamp": "20250309_125418",
+        "requested_duration": 80,
+        "actual_duration": 80.0,
+        "file_size_kb": 1251.869140625
+    },
+    {
+        "file_name": "13_KEXP_20250309_125532.mp3",
+        "station_name": "KEXP",
+        "stream_url": "https://kexp.streamguys1.com/kexp160.aac",
+        "timestamp": "20250309_125532",
+        "requested_duration": 76,
+        "actual_duration": 76.0,
+        "file_size_kb": 1188.8759765625
+    },
+    {
+        "file_name": "14_NPR_20250309_125644.mp3",
+        "station_name": "NPR",
+        "stream_url": "https://npr-ice.streamguys1.com/live.mp3",
+        "timestamp": "20250309_125644",
+        "requested_duration": 37,
+        "actual_duration": 37.0,
+        "file_size_kb": 579.599609375
+    },
+    {
+        "file_name": "15_BBC_World_Service_20250309_125721.mp3",
+        "station_name": "BBC World Service",
+        "stream_url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+        "timestamp": "20250309_125721",
+        "requested_duration": 85,
+        "actual_duration": 85.0,
+        "file_size_kb": 1329.5244140625
+    },
+    {
+        "file_name": "16_BBC_World_Service_20250309_125842.mp3",
+        "station_name": "BBC World Service",
+        "stream_url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+        "timestamp": "20250309_125842",
+        "requested_duration": 77,
+        "actual_duration": 77.0,
+        "file_size_kb": 1204.6494140625
+    },
+    {
+        "file_name": "17_SomaFM_Groove_Salad_20250309_125957.mp3",
+        "station_name": "SomaFM Groove Salad",
+        "stream_url": "http://ice1.somafm.com/groovesalad-256-mp3",
+        "timestamp": "20250309_125957",
+        "requested_duration": 70,
+        "actual_duration": 70.0,
+        "file_size_kb": 1095.1162109375
+    },
+    {
+        "file_name": "18_BBC_World_Service_20250309_130103.mp3",
+        "station_name": "BBC World Service",
+        "stream_url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+        "timestamp": "20250309_130103",
+        "requested_duration": 90,
+        "actual_duration": 1.824,
+        "file_size_kb": 29.7744140625
+    },
+    {
+        "file_name": "19_BBC_World_Service_20250309_130118.mp3",
+        "station_name": "BBC World Service",
+        "stream_url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+        "timestamp": "20250309_130118",
+        "requested_duration": 82,
+        "actual_duration": 82.0,
+        "file_size_kb": 1282.6494140625
+    },
+    {
+        "file_name": "20_Classic_FM_20250309_130239.mp3",
+        "station_name": "Classic FM",
+        "stream_url": "https://media-ice.musicradio.com/ClassicFMMP3",
+        "timestamp": "20250309_130239",
+        "requested_duration": 54,
+        "actual_duration": 54.0,
+        "file_size_kb": 845.1826171875
+    },
+    {
+        "file_name": "21_Smooth_Jazz_20250309_130321.mp3",
+        "station_name": "Smooth Jazz",
+        "stream_url": "https://smoothjazz.cdnstream1.com/2585_128.mp3",
+        "timestamp": "20250309_130321",
+        "requested_duration": 63,
+        "actual_duration": 63.0,
+        "file_size_kb": 985.658203125
+    },
+    {
+        "file_name": "22_Classic_FM_20250309_130359.mp3",
+        "station_name": "Classic FM",
+        "stream_url": "https://media-ice.musicradio.com/ClassicFMMP3",
+        "timestamp": "20250309_130359",
+        "requested_duration": 57,
+        "actual_duration": 57.000249,
+        "file_size_kb": 892.12109375
+    },
+    {
+        "file_name": "23_KEXP_20250309_130444.mp3",
+        "station_name": "KEXP",
+        "stream_url": "https://kexp.streamguys1.com/kexp160.aac",
+        "timestamp": "20250309_130444",
+        "requested_duration": 51,
+        "actual_duration": 51.0,
+        "file_size_kb": 798.392578125
+    },
+    {
+        "file_name": "24_KEXP_20250309_130532.mp3",
+        "station_name": "KEXP",
+        "stream_url": "https://kexp.streamguys1.com/kexp160.aac",
+        "timestamp": "20250309_130532",
+        "requested_duration": 76,
+        "actual_duration": 76.0,
+        "file_size_kb": 1188.849609375
+    },
+    {
+        "file_name": "25_Classic_FM_20250309_130643.mp3",
+        "station_name": "Classic FM",
+        "stream_url": "https://media-ice.musicradio.com/ClassicFMMP3",
+        "timestamp": "20250309_130643",
+        "requested_duration": 35,
+        "actual_duration": 35.0,
+        "file_size_kb": 548.08203125
+    },
+    {
+        "file_name": "26_Smooth_Jazz_20250309_130708.mp3",
+        "station_name": "Smooth Jazz",
+        "stream_url": "https://smoothjazz.cdnstream1.com/2585_128.mp3",
+        "timestamp": "20250309_130708",
+        "requested_duration": 43,
+        "actual_duration": 43.0,
+        "file_size_kb": 673.41796875
+    },
+    {
+        "file_name": "27_KEXP_20250309_130726.mp3",
+        "station_name": "KEXP",
+        "stream_url": "https://kexp.streamguys1.com/kexp160.aac",
+        "timestamp": "20250309_130726",
+        "requested_duration": 56,
+        "actual_duration": 56.0,
+        "file_size_kb": 876.1962890625
+    },
+    {
+        "file_name": "28_Smooth_Jazz_20250309_130818.mp3",
+        "station_name": "Smooth Jazz",
+        "stream_url": "https://smoothjazz.cdnstream1.com/2585_128.mp3",
+        "timestamp": "20250309_130818",
+        "requested_duration": 57,
+        "actual_duration": 57.000249,
+        "file_size_kb": 892.193359375
+    },
+    {
+        "file_name": "29_Smooth_Jazz_20250309_130848.mp3",
+        "station_name": "Smooth Jazz",
+        "stream_url": "https://smoothjazz.cdnstream1.com/2585_128.mp3",
+        "timestamp": "20250309_130848",
+        "requested_duration": 78,
+        "actual_duration": 78.0,
+        "file_size_kb": 1219.9453125
+    },
+    {
+        "file_name": "30_SomaFM_Groove_Salad_20250309_130940.mp3",
+        "station_name": "SomaFM Groove Salad",
+        "stream_url": "http://ice1.somafm.com/groovesalad-256-mp3",
+        "timestamp": "20250309_130940",
+        "requested_duration": 46,
+        "actual_duration": 46.0,
+        "file_size_kb": 720.0146484375
+    }
+]

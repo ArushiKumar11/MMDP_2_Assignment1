@@ -1,0 +1,31 @@
+file_name,station_name,stream_url,timestamp,requested_duration,actual_duration,file_size_kb
+01_WNYC_20250309_124502.mp3,WNYC,http://fm939.wnyc.org/wnycfm,20250309_124502,43,43.0,673.708984375
+02_Smooth_Jazz_20250309_124542.mp3,Smooth Jazz,https://smoothjazz.cdnstream1.com/2585_128.mp3,20250309_124542,40,40.0,626.4794921875
+03_France_Info_20250309_124604.mp3,France Info,http://direct.franceinfo.fr/live/franceinfo-midfi.mp3,20250309_124604,78,78.0,1219.625
+04_WNYC_20250309_124722.mp3,WNYC,http://fm939.wnyc.org/wnycfm,20250309_124722,45,45.0,704.556640625
+05_WNYC_20250309_124754.mp3,WNYC,http://fm939.wnyc.org/wnycfm,20250309_124754,57,57.0,892.431640625
+06_NPR_20250309_124840.mp3,NPR,https://npr-ice.streamguys1.com/live.mp3,20250309_124840,60,60.0,939.037109375
+07_France_Info_20250309_124939.mp3,France Info,http://direct.franceinfo.fr/live/franceinfo-midfi.mp3,20250309_124939,39,39.0,610.25
+08_WNYC_20250309_125018.mp3,WNYC,http://fm939.wnyc.org/wnycfm,20250309_125018,85,85.0,1330.056640625
+09_KEXP_20250309_125131.mp3,KEXP,https://kexp.streamguys1.com/kexp160.aac,20250309_125131,32,32.0,501.2490234375
+10_NPR_20250309_125200.mp3,NPR,https://npr-ice.streamguys1.com/live.mp3,20250309_125200,71,71.0,1111.162109375
+11_Classic_FM_20250309_125319.mp3,Classic FM,https://media-ice.musicradio.com/ClassicFMMP3,20250309_125319,61,61.0,954.5703125
+12_WNYC_20250309_125418.mp3,WNYC,http://fm939.wnyc.org/wnycfm,20250309_125418,80,80.0,1251.869140625
+13_KEXP_20250309_125532.mp3,KEXP,https://kexp.streamguys1.com/kexp160.aac,20250309_125532,76,76.0,1188.8759765625
+14_NPR_20250309_125644.mp3,NPR,https://npr-ice.streamguys1.com/live.mp3,20250309_125644,37,37.0,579.599609375
+15_BBC_World_Service_20250309_125721.mp3,BBC World Service,http://stream.live.vc.bbcmedia.co.uk/bbc_world_service,20250309_125721,85,85.0,1329.5244140625
+16_BBC_World_Service_20250309_125842.mp3,BBC World Service,http://stream.live.vc.bbcmedia.co.uk/bbc_world_service,20250309_125842,77,77.0,1204.6494140625
+17_SomaFM_Groove_Salad_20250309_125957.mp3,SomaFM Groove Salad,http://ice1.somafm.com/groovesalad-256-mp3,20250309_125957,70,70.0,1095.1162109375
+18_BBC_World_Service_20250309_130103.mp3,BBC World Service,http://stream.live.vc.bbcmedia.co.uk/bbc_world_service,20250309_130103,90,1.824,29.7744140625
+19_BBC_World_Service_20250309_130118.mp3,BBC World Service,http://stream.live.vc.bbcmedia.co.uk/bbc_world_service,20250309_130118,82,82.0,1282.6494140625
+20_Classic_FM_20250309_130239.mp3,Classic FM,https://media-ice.musicradio.com/ClassicFMMP3,20250309_130239,54,54.0,845.1826171875
+21_Smooth_Jazz_20250309_130321.mp3,Smooth Jazz,https://smoothjazz.cdnstream1.com/2585_128.mp3,20250309_130321,63,63.0,985.658203125
+22_Classic_FM_20250309_130359.mp3,Classic FM,https://media-ice.musicradio.com/ClassicFMMP3,20250309_130359,57,57.000249,892.12109375
+23_KEXP_20250309_130444.mp3,KEXP,https://kexp.streamguys1.com/kexp160.aac,20250309_130444,51,51.0,798.392578125
+24_KEXP_20250309_130532.mp3,KEXP,https://kexp.streamguys1.com/kexp160.aac,20250309_130532,76,76.0,1188.849609375
+25_Classic_FM_20250309_130643.mp3,Classic FM,https://media-ice.musicradio.com/ClassicFMMP3,20250309_130643,35,35.0,548.08203125
+26_Smooth_Jazz_20250309_130708.mp3,Smooth Jazz,https://smoothjazz.cdnstream1.com/2585_128.mp3,20250309_130708,43,43.0,673.41796875
+27_KEXP_20250309_130726.mp3,KEXP,https://kexp.streamguys1.com/kexp160.aac,20250309_130726,56,56.0,876.1962890625
+28_Smooth_Jazz_20250309_130818.mp3,Smooth Jazz,https://smoothjazz.cdnstream1.com/2585_128.mp3,20250309_130818,57,57.000249,892.193359375
+29_Smooth_Jazz_20250309_130848.mp3,Smooth Jazz,https://smoothjazz.cdnstream1.com/2585_128.mp3,20250309_130848,78,78.0,1219.9453125
+30_SomaFM_Groove_Salad_20250309_130940.mp3,SomaFM Groove Salad,http://ice1.somafm.com/groovesalad-256-mp3,20250309_130940,46,46.0,720.0146484375
